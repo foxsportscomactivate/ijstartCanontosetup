@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'setup Canon Printer'
 
 
 # The full version, including alpha/beta/rc tags
@@ -24,10 +24,6 @@ project = 'HP Smart'
 
 
 
-html_meta = {
-    "msvalidate.01": "108BF3BCC1EC90CA1EBEFF8001FAEFEA"
-   
-}
 
 
 
