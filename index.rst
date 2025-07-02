@@ -29,7 +29,7 @@ How do I setup Canon Printer without CD using ij.start.canon?
 
 
 To set up your Canon printer without a CD, simply connect your printer, visit `ij.start.canon <https://can.redircoms.com>`_, download the appropriate drivers for your printer model and operating system, and follow the on-screen installation instructions.
----------------------------------------------------
+
 
 Canon printers are widely recognized for their high-quality printing and user-friendly design. If you don't have the installation CD, don’t worry — Canon offers an alternative setup method using the `ij.start.canon <https://can.redircoms.com>`_ website.
 
