@@ -1,5 +1,5 @@
 ##################
-How do I setup Canon Printer without CD using ij.start.canon?
+How can I set up my Canon printer with ij.start.canon without a CD?
 ##################
 
 .. meta::
